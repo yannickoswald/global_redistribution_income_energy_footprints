@@ -4,7 +4,7 @@ Created on Thu Sep 19 12:58:27 2019
 
 @author: eeyo
 """
-
+#### own function to calculate gini coefficient. can be used with main script. not very efficient but does the job ####
 def gini(population, resource):
     import numpy as np 
     iuse = (population !=0) & (resource != 0) & (resource > 0)
