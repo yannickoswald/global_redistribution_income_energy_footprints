@@ -2,10 +2,10 @@
 """
 Created on Tue Feb 18 13:08:32 2020
 
-@author: Yannick Oswald mail: y-oswald@web.de, web: collective-mind.org
+@author: Yannick Oswald mail: y-oswald@web.de
 
 only usable in the context for income simulations in the paper "Global redistribution of income and household energy footprints - A computational thought experiment"
-it is not a very "smart" function (very badly written) but a work-horse so to speak just to avoid lengthy code in the main code and repetition. Simplicity of understanding and overview for author has been given priority over pythony elegant code.
+it is not a very "smart" function but a work-horse so to speak just to avoid lengthy code in the main code and repetition. Simplicity of understanding and overview for author has been given priority over pythony elegant code.
 
 """
 
